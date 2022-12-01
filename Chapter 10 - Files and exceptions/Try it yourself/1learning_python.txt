@@ -1,0 +1,5 @@
+In Python you can have strings and integers. 
+In Python you can have lists and dictionaries. 
+In Python you can write 'while' and 'for' loops.
+In Python you can use 'if', 'elif' and 'else'.
+In Python you can manipulate with 'input' obtained from the user.

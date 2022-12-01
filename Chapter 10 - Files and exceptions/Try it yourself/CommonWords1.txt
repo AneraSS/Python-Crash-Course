@@ -1,0 +1,10 @@
+This will be the first file I am writing for this counting. This will be interesting.
+I am trying to write as many the words there is but it seems I am failling with wiriting so 
+many the in a txt file. Hm. 
+
+Ruth is writing into a notebook. No the. 
+Dad is preparing the cheese for the shells. Nice, two the words.
+I am learning Python. No the, damn. 
+I am learning Python on a laptop. Ups.
+I am learning Python using my laptop - err, on the laptop following a book I have told you about. 
+It is not grammatically correct to say using the book, right?
